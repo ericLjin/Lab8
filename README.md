@@ -7,6 +7,6 @@
 
 3. Yes, max message length is fairly separate from other components, and so will not be affected by other changes to the application.
 
-4. What do you expect to happen if we run our puppeteer tests with the field “headless” set to true?
+4. Running the tests would not cause a browser UI to be created if "headless" is set to true.
 
 5. What would your beforeAll callback look like if you wanted to start from the settings page before every test case?
