@@ -44,7 +44,7 @@ function settingsPage(goTo) {
 }
 
 /**
- * 
+ *
  * @param {boolean} goTo  true if you are going to this page, false if unsetting the page
  * @param {number} entryNum if goTo is true, number of the entry to render
  */
