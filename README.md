@@ -1,6 +1,7 @@
 # Lab8_Starter
+Name: Eric Jin
 
-## Check your understanding q's (FILL OUT)
+## Check your understanding q's
 1. In your own words: Where would you fit your automated tests in your Bujo project development pipeline? 1
 
 2. No, as this messaging feature would most likely require reliance on and interaction with other components, which is not something that unit tests are suited for.
